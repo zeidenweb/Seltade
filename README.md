@@ -1,4 +1,4 @@
-# Discord intr0uvable
+# Discord zeiden.web
 ⚠️ **For educational purposes!** 📖
 
 Ce programme a été créé à des fins éducatives
